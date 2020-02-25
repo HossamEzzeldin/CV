@@ -1,0 +1,29 @@
+img {
+    border-radius: 50%;
+    height: 250px;
+
+  }
+
+  body {
+    background-color: black;
+    font-family: sans-serif;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', ;
+
+    }
+    h1 {
+
+    font-family: 'Montserrat', Arial, sans-serif ;
+    }
+hr {
+  border-style: dotted none none;
+width: 7%;
+background-color: powderblue;
+border-width: 5px;
+border-color: grey;
+}
+
+a {
+  color: yellow;
+}
